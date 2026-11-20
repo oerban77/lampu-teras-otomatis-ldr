@@ -6,7 +6,7 @@ menyalakan lampu lewat relay. Tidak ada lagi teras gelap saat pulang
 malam, dan tidak ada lagi lampu yang menyala terus sampai pagi.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/JUL71p4JdgM
 
 ## Komponen
 
